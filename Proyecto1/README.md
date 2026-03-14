@@ -212,3 +212,6 @@ show ip ospf neighbor
 show ip ospf interface
 show ip route ospf
 ```
+## Evidencia de Ping (ADMIN a PC0 y Laptop2)
+
+![Topologia](https://github.com/BatteryRem/REDES2_1S2026_201607814/blob/main/Proyecto1/pr1redes/7.png)
